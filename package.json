@@ -8,8 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@netless/fastboard": "^0.2.6",
+    "@netless/window-manager": "^0.4.2",
+    "axios": "^0.24.0",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vue": "^2.6.11",
+    "white-web-sdk": "^2.16.7"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
